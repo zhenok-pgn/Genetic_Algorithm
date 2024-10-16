@@ -1,0 +1,10 @@
+D:\User\AI\GeneticAlgorithmWF\bin\Release\GeneticAlgorithmWF.exe.config
+D:\User\AI\GeneticAlgorithmWF\bin\Release\GeneticAlgorithmWF.exe
+D:\User\AI\GeneticAlgorithmWF\bin\Release\GeneticAlgorithmWF.pdb
+D:\User\AI\GeneticAlgorithmWF\obj\Release\GeneticAlgorithmWF.csproj.AssemblyReference.cache
+D:\User\AI\GeneticAlgorithmWF\obj\Release\GeneticAlgorithmWF.Form1.resources
+D:\User\AI\GeneticAlgorithmWF\obj\Release\GeneticAlgorithmWF.Properties.Resources.resources
+D:\User\AI\GeneticAlgorithmWF\obj\Release\GeneticAlgorithmWF.csproj.GenerateResource.cache
+D:\User\AI\GeneticAlgorithmWF\obj\Release\GeneticAlgorithmWF.csproj.CoreCompileInputs.cache
+D:\User\AI\GeneticAlgorithmWF\obj\Release\GeneticAlgorithmWF.exe
+D:\User\AI\GeneticAlgorithmWF\obj\Release\GeneticAlgorithmWF.pdb
